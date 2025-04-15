@@ -4,5 +4,5 @@ Try our **Hugging Face Space** to predict capacitance by inputting features dire
 [![Hugging Face Spaces](https://img.shields.io/badge/🤗%20Hugging%20Face-Spaces-blue)](https://huggingface.co/spaces/IPMCMLAB/MoS2_Cap)  
 
 Explore how **1T content**, **d-spacing**, and other features influence capacitance predictions in real time. Simply:  
-1. Input values for MoS₂ properties, electrolyte parameters, fabrication detail, and operational conditions.  
+1. Input values for MoS₂ properties, electrolyte parameters, fabrication details, and operational conditions.  
 2. Click **Predict** to see the model’s capacitance output.  
